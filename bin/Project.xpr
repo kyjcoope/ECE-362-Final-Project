@@ -1,0 +1,3 @@
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "main.dbg::disp"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "main.dbg::sec_counter"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "main.dbg::pin_array[3]"
